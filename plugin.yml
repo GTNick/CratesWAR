@@ -1,0 +1,8 @@
+name: CratesC
+version: 0.1
+api: [1.0.0]
+description: A crate plugin
+author: CrazierDevotee0
+
+main: CratesC\CratesC
+load: STARTUP
